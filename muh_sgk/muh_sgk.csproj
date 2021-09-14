@@ -55,6 +55,7 @@
     <Compile Include="bildirgebilgial.Designer.cs">
       <DependentUpon>bildirgebilgial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="ebildirgev2.cs">
       <SubType>Form</SubType>
     </Compile>

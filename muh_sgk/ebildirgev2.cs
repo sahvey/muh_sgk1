@@ -46,8 +46,8 @@ namespace muh_sgk
            // }
             //VeriAl("https://www.ebay.com/sch/i.html?_nkw=computer&_sop=12","//*[@id='srp-river-results']/ul/li[2]/div/div[2]/a/h3", listBox1);
             //*[@id="srp-river-results"]/ul/li[1]/div/div[2]/a/h3/span
-            //*[@id="srp-river-results"]/ul/li[2]/div/div[2]/a/h3
-            //*[@id="srp-river-results"]/ul/li[3]/div/div[2]/a/h3
+
+
 
         }
         public void VeriAl(String Url, String Xpath, ListBox cikansonuc)
